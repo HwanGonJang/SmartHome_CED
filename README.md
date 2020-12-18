@@ -15,7 +15,8 @@
 Fusion360 프로그램으로 모델링 후 3D모델 출력.      
 => 선풍기, 소파, TV케이스, 오븐, CED SmartHome 텍스트 모델링.     
 #### 오븐 모델링
-<img width="400" src="https://user-images.githubusercontent.com/33739448/102567776-94254d00-4125-11eb-93c7-27b6f64eeaaf.jpg">
+<img width="400" src="https://user-images.githubusercontent.com/33739448/102567776-94254d00-4125-11eb-93c7-27b6f64eeaaf.jpg">      
+
 #### 3D 프린팅
 <img width="400" src="https://user-images.githubusercontent.com/33739448/102567783-95567a00-4125-11eb-9ff0-b241fd2a7c3f.jpg">
 
