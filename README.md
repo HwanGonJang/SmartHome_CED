@@ -20,6 +20,8 @@ Fusion360 프로그램으로 모델링 후 3D모델 출력.
 <img width="400" src="https://user-images.githubusercontent.com/33739448/102567783-95567a00-4125-11eb-9ff0-b241fd2a7c3f.jpg">
 
 ### 기능
+#### 웨어러블 장갑
+구부림 센서, LCD패널과 블루투스 모듈 3개로 스마트홈과 통신.
 #### 오븐
 부저, dc모터, LED로 버튼과 웨어러블 장갑에서 작동되는 오븐 제작
 (oven.ino)     
