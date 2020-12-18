@@ -7,7 +7,7 @@
 
 ## 프로젝트 과정
 ### 집 제작
-트로텍 레이저 프린터로 제작한 도면을 정교하게 절단.      
+트로텍 레이저 커터로 제작한 도면을 정교하게 절단.      
 <img width="400" src="https://user-images.githubusercontent.com/33739448/102567813-a3a49600-4125-11eb-838d-a48421136b35.jpg">     
 <img width="400" src="https://user-images.githubusercontent.com/33739448/102567801-9e474b80-4125-11eb-9d83-29007d091d30.jpg">     
 <img width="400" src="https://user-images.githubusercontent.com/33739448/102567809-a2736900-4125-11eb-86b5-e060928ab17c.jpg">      
