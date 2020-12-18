@@ -8,21 +8,21 @@
 ## 프로젝트 과정
 ### 집 제작
 트로텍 레이저 프린터로 제작한 도면을 정교하게 절단.      
-<img width="400" src="https://user-images.githubusercontent.com/33739448/102567813-a3a49600-4125-11eb-838d-a48421136b35.jpg">
-<img width="400" src="https://user-images.githubusercontent.com/33739448/102567801-9e474b80-4125-11eb-9d83-29007d091d30.jpg">
-<img width="400" src="https://user-images.githubusercontent.com/33739448/102567809-a2736900-4125-11eb-86b5-e060928ab17c.jpg">
+<img width="400" src="https://user-images.githubusercontent.com/33739448/102567813-a3a49600-4125-11eb-838d-a48421136b35.jpg">     
+<img width="400" src="https://user-images.githubusercontent.com/33739448/102567801-9e474b80-4125-11eb-9d83-29007d091d30.jpg">     
+<img width="400" src="https://user-images.githubusercontent.com/33739448/102567809-a2736900-4125-11eb-86b5-e060928ab17c.jpg">      
 ### 3D프린터 가구 제작
 Fusion360 프로그램으로 모델링 후 3D모델 출력.      
 => 선풍기, 소파, TV케이스, 오븐, CED SmartHome 텍스트 모델링.     
-오븐 모델링
+#### 오븐 모델링
 <img width="400" src="https://user-images.githubusercontent.com/33739448/102567776-94254d00-4125-11eb-93c7-27b6f64eeaaf.jpg">
-3D 프린팅
+#### 3D 프린팅
 <img width="400" src="https://user-images.githubusercontent.com/33739448/102567783-95567a00-4125-11eb-9ff0-b241fd2a7c3f.jpg">
 
 ### 기능
 #### 오븐
 부저, dc모터, LED로 버튼과 웨어러블 장갑에서 작동되는 오븐 제작
-(oven.ino)
+(oven.ino)     
 <img width="400" src="https://user-images.githubusercontent.com/33739448/102567826-abfcd100-4125-11eb-80c7-abfb53bef7c6.jpg">
 
 #### 창문, 블라인드, 방범 문
@@ -30,16 +30,16 @@ Fusion360 프로그램으로 모델링 후 3D모델 출력.
 2. 블라인드: 조도 센서로 빛이 강할 때는 자동으로 내려오고 반대의 경우 올라가는 기능. 장갑으로 제어 가능.
 3. 방범 문: 초음파 센서로 누군가 다가오면 LED불빛이 깜빡이며 경고표시. 장갑으로 제어 가능.
 (window_blind_door.ino)     
-창문, 블라인드
+##### 창문, 블라인드
 <img width="400" src="https://user-images.githubusercontent.com/33739448/102567835-aef7c180-4125-11eb-93fd-11d94afa8999.jpg">
-방범 문
+##### 방범 문
 <img width="400" src="https://user-images.githubusercontent.com/33739448/102567839-b028ee80-4125-11eb-8c1f-34043044b26a.jpg">
 
 #### 조명, TV, 선풍기
 1. 조명: 스위치와 장갑으로 제어하는 조명 2개.
 2. TV: 장갑으로 제어하는 TV. 원하는 채널, 전원 ON/OFF기능.
 3. 선풍기: 장갑으로 제어하는 선풍기.
-(light_tv_fan.ino)
+(light_tv_fan.ino)     
 <img width="400" src="https://user-images.githubusercontent.com/33739448/102567848-b5863900-4125-11eb-9e4a-5c75f1d95c8c.jpg">
 
 ## 완성
